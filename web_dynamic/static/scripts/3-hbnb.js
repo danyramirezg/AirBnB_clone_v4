@@ -37,7 +37,7 @@ $(document).ready(function () {
     contentType: 'application/json',
     success: function(data){
 
-        for (place in data){
+        for (place of data){
             console.log(place);
             $(".places").append(`<article>
 
