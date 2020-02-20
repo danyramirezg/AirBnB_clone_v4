@@ -1,8 +1,19 @@
-<img src="https://github.com/jarehec/AirBnB_clone_v3/blob/master/dev/HBTN-hbnb-Final.png" width="160" height=auto />
+<img align="center" src="https://github.com/jarehec/AirBnB_clone_v3/blob/master/dev/HBTN-hbnb-Final.png" width="80%" />
 
-# AirBnB Clone: Phase # 3
+# AirBnB Clone: Phase # 4 
 
-: API with Swagger
+After 4 months, we have a complete web application composed by:
+
+- A command interpreter to manipulate data without a visual interface, like in a Shell (perfect for development and debugging)
+- A website (the front-end) that shows the final product to everybody: static and dynamic
+- A database or files that store data (data = objects)
+- An API that provides a communication interface between the front-end and your data (retrieve, create, delete, update them)
+
+
+# Final product: 
+<img align="center" src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/8-index.png" width="100%" />
+<img align="center" src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/100-index.png" width="100%" />
+
 
 ## Description
 
@@ -217,6 +228,11 @@ github repo
 * Kimberly Wong, [kjowong](https://github.com/kjowong) | [@kjowong](https://twitter.com/kjowong) | [kjowong@gmail.com](kjowong@gmail.com)
 * Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
 * Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
+* Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
+* Daniela Ramirez, [danyramirezg](https://github.com/danyramirezg) | [@danyramirezg_](https://twitter.com/danyramirezg__)
+* Luis Diaz, [luiseduardiazc](https://github.com/luiseduardiazc) | [@luiseduardiazc](https://twitter.com/luiseduardiazc_)
+
+
 
 ## License
 
